@@ -23,7 +23,7 @@ class Münür {
 <h1 align="center"> Tek Discord Hesabım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 
- <a href="https://discord.com/users/719117042904727635"
+![Discord Hesabım:](https://discord-readme-badge.vercel.app/api?id=<719117042904727635>)
 
 <h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
