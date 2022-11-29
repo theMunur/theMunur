@@ -22,7 +22,8 @@ class Münür {
 
 <h1 align="center"> Tek Discord Hesabım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/908061037109063712)](https://discord.com/users/719117042904727635)
+<p align="center">
+ <a href="https://discord.com/users/719117042904727635"
 
 <h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
