@@ -18,12 +18,7 @@ class Münür {
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/719117042904727635)
 [![Github Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/theMunur)
-[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thelarinka)
-
-<h1 align="center"> Tek Discord Hesabım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-
-
-![Discord Hesabım:](https://discord-readme-badge.vercel.app/api?839432085856583730=<719117042904727635>)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/münür)
 
 <h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
